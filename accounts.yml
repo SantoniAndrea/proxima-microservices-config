@@ -3,4 +3,4 @@ build:
 ambiente: "dev"
 db_host: "https://dev.miaapp.it"
 db_user: "pippo"
-db_pass: "{cypher}b1e49300a17d3bcd908693cd936a7d4686a9b45df52bc91fbb3b1ff192421722"
+db_pass: "{cipher}b1e49300a17d3bcd908693cd936a7d4686a9b45df52bc91fbb3b1ff192421722"
