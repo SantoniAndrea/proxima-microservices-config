@@ -1,4 +1,4 @@
 ambiente: "qa"build:
 db_host: "https://dev.miaapp.it"
 db_user: "pluto"
-db_pass: "3ee4c361883f524ebf9f5c6967963fc78bc7f4d44be785856a5977d7ac6f8dd0"
+db_pass: "{cypher}3ee4c361883f524ebf9f5c6967963fc78bc7f4d44be785856a5977d7ac6f8dd0"
